@@ -1,0 +1,2 @@
+Execution time in seconds 568.149263381958
+memory usage(current,maximum) (11942637, 40457676)
